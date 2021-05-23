@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Budget-Calculator/static/css/main.c64f5077.chunk.css",
+    "main.js": "/React-Budget-Calculator/static/js/main.6c0738dc.chunk.js",
+    "main.js.map": "/React-Budget-Calculator/static/js/main.6c0738dc.chunk.js.map",
+    "runtime~main.js": "/React-Budget-Calculator/static/js/runtime~main.26d29c98.js",
+    "runtime~main.js.map": "/React-Budget-Calculator/static/js/runtime~main.26d29c98.js.map",
+    "static/js/2.cd00c108.chunk.js": "/React-Budget-Calculator/static/js/2.cd00c108.chunk.js",
+    "static/js/2.cd00c108.chunk.js.map": "/React-Budget-Calculator/static/js/2.cd00c108.chunk.js.map",
+    "index.html": "/React-Budget-Calculator/index.html",
+    "precache-manifest.bcf57c663e342fde6c34a42ca8895011.js": "/React-Budget-Calculator/precache-manifest.bcf57c663e342fde6c34a42ca8895011.js",
+    "service-worker.js": "/React-Budget-Calculator/service-worker.js",
+    "static/css/main.c64f5077.chunk.css.map": "/React-Budget-Calculator/static/css/main.c64f5077.chunk.css.map"
+  }
+}
